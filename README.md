@@ -1,5 +1,8 @@
 # Bank Customer Churn Prediction
+
+<img align="right" alt="Churn" width="400" src="https://blog.usetada.com/hubfs/Increasing-Customer-Loyalty-in-the-Banking-Industry.png"/>
+
 In this project, we use banking data to predict whether a customer will churn using different ML models.
 
-Note: The dataset used in this project from https://raw.githubusercontent.com/adacert/churn/main/Churn_Modelling has been cleaned and formatted for this particular project. The "Churn_PyCaret" file contains EDA and the complete ML pipeline.
+Note: Run the latest "Churn_PyCaret" file to see the complete EDA report and ML pipeline.
 
