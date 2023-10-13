@@ -1,4 +1,4 @@
-# Bank Customer Churn Prediction
+# Predicting Banking Customer Churn with Machine Learning 
 
 <img align="right" alt="Churn" width="400" src="https://blog.usetada.com/hubfs/Increasing-Customer-Loyalty-in-the-Banking-Industry.png"/>
 
